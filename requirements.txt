@@ -1,0 +1,3 @@
+git+https://github.com/HenKlei/ML-OPT-CONTROL.git
+notebook
+matplotlib-inline
